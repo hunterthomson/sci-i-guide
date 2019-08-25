@@ -1,2 +1,2 @@
-# sci-i-manual
-Polar-ICE Sci-I Project Development &amp; Implementation Manual
+# sci-i-guide
+Polar-ICE Sci-I Project Development &amp; Implementation Guide
